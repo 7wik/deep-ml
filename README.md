@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-19 | [solution](problems/0007-matrix-transformation) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-10-17 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-19 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-10-20 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ---
 
