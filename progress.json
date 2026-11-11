@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:48:07.281Z",
+  "generated_at": "2026-11-11T09:18:34.301Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -304,6 +304,17 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-11-10T01:48:06.744Z",
       "last_pushed_at": "2026-11-10T01:48:06.744Z"
+    },
+    "math:51": {
+      "kind": "math",
+      "id": "51",
+      "title": "Bradley-Terry Preference Model",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/51",
+      "path": "math/0051-bradley-terry-preference-model",
+      "first_solved_at": "2026-11-11T09:18:33.683Z",
+      "last_pushed_at": "2026-11-11T09:18:33.683Z"
     }
   }
 }
